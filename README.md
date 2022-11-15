@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MijKamau
-- 👀 I’m interested in tech
+- 👀 I’m interested in tech; Data Analytics, AI , Software Dev & Engineering
 - 🌱 I’m currently learning software engineering on ALX
 - 💞️ I’m looking to collaborate on the various projects 
 - 📫 How to reach me on Linkedin as Wanjiku Kamau
